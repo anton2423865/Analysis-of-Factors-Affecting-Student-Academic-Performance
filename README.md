@@ -15,8 +15,10 @@ Educational institutions often struggle to understand why some students underper
 Which factors most strongly influence student academic performance, and how are these factors related to outcomes?
 
 **The Answer:**  
+
 Academic performance is driven more by behavioral and study-related factors than by basic demographic attributes, as revealed through systematic data preprocessing and exploratory data analysis.
 ---
+
 
 ## 💡 Key Findings
 
@@ -86,3 +88,4 @@ Lesson: EDA and visualization are essential for accurate insights
 
 
 ---
+
