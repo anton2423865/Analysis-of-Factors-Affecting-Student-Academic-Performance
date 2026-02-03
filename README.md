@@ -62,7 +62,7 @@ Lesson: EDA and visualization are essential for accurate insights
 - **Pandas** - Data manipulation
 - **Matplotlib & Seaborn** - Visualizations
 - **NumPy** – numerical operations
-- Scikit-learn – 
+- **Scikit-learn** – Machine learning library
 - **Jupyter Notebook** -Used for applying machine learning models and evaluating their performance.
 
 
@@ -88,4 +88,5 @@ Lesson: EDA and visualization are essential for accurate insights
 
 
 ---
+
 
